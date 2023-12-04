@@ -1,1 +1,6 @@
 hello from test file 1
+
+function display(){
+  console.log("hi from display()")
+}
+
